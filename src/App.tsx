@@ -1,10 +1,8 @@
-import { useState } from 'react'
 import dwLogo from './assets/DW.png'
 
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
