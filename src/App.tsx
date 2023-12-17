@@ -7,9 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={dwLogo} className="logo" alt="Vite logo" />
-        </a>
+          <img src={dwLogo} className="logo" alt="dw logo" />
       </div>
       <code>Hack the planet!</code>
     </>
